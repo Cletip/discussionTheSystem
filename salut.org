@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       20221112142337422038
-:END:
-#+title: salut
-test
