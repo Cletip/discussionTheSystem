@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       20221112143828019342
+:END:
+#+title: test-de-sujet
+c'est un nouveau sujet
+
+
+* 2022-11-12 16:28:59 :Cletip:
+
+#+begin_quote
+Lorsqu'en 1876 j'ai publié une note sur quelques sigles de bri- 
+ques antiques (1), je m'y suis surtout occupé de celles qui portent 
+
+#+end_quote
+
+
+(org-heading-components)
+(org-entry-properties)
+
+* seconde answer
+
+(goto-char (org-element-property :end (org-element-at-point)))
+Lorsqu'en 1876 j'ai publié une note sur quelques sigles de bri- 
+ques antiques (1), je m'y suis surtout occupé de celles qui portent 
+les estampilles de la gens Domitia en général et des deux Domitia 
+Lucilla en particulier, et j'ai conclu en disant qu'elles méritaient 
+une monographie spéciale. Maintenant, après en avoir réuni les 
+principaux éléments, je viens soumettre à l'examen des archéolo- 
+gues le résultat de mes longues recherches, dans l'espoir qu'ils 
+voudront bien m'aider à les rendre moins incomplètes et plus 
+utiles à la science. 
+(goto-char (org-element-property :end (org-get-heading)))
+(org-entry-get nil end)
+
+(org-element-map (org-element-parse-buffer) 'item
+  (lambda (item) (eq (org-element-property :heading item) 'on))
+  nil t)
+
+  (let ((parsetree (org-element-parse-buffer 'headline))) 
+  (org-element-map parsetree 'headline 
+                   (lambda (hl) (org-element-property :title hl)))) 
+
+L'étude des inscriptions doliaires, ou des poteries estampillées, 
+sans être absolument neuve, est cependant une branche de l'épi- 
+graphie qui n'a pas encore obtenu, ce semble, une attention digne 
+de son importance. Il est vrai qu'on ne la néglige plus comme 
+au temps où les érudits, uniquement épris des marbres, des bron- 
+zes , des médailles , etc., regardaient à peine les grosses poteries, 
+tenues en quelque sorte pour viles et méprisables; on les relègue 
+cependant encore à la fin des recueils épigraphiques , sous la 
+rubrique vulgaire à'inslrumentum , c'est-à-dire d'ustensiles , et 
+l'on parait les y admettre comme un hors-d'œuvre qui ne se rat- 
+tache à rien ni à personne. Voici de quelle manière les apprécie, 
+en 1877, un maître de la science : « Composui hoc capite quid- 
+quid repperi inscriptum tegulis amphoris lucernis vasculis reli- 
+quaque instrumenta supellectilis domesticœ , non tam quod col-
+
+* first answer

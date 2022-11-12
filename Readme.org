@@ -1,0 +1,23 @@
+#+title: Readme
+
+Le but de ce repos est de discuter.
+Évoluera au fil du temps.
+Doit rester basique, mais efficace.
+Si jamais on créer des fonctions/commandes : org-discuss (sympas comme nom ?)
+
+
+* Pourquoi utiliser ceci ? 
+
+- système basique de message avec des headings
+- possibilité de modification à volonté
+
+* Principe de fonctionnement 
+
+1. Un fichier est relié à une question
+2. Un heading correspond à un message/une réponse
+3. Les réponses sont dans l'ordre chronologique inversé : pour répondre, créer un heading au dessus du dernier heading (plus facile de répondre)
+4. Chaque heading à un tag pour savoir qui a écrit le message
+5. Il faut quote les réponses des autres pour que tout soit clair !
+6. Il ne faut pas hésiter à faire des liens entre fichiers.
+
+
