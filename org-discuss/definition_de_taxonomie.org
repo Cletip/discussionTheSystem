@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       20221113123505721540
+:END:
+#+title: définition de taxonomie
+
+Une taxonomie des données est une classification des données en catégories et sous-catégories
+
+

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       20221113125532910227
+:END:
+#+title: should note types be created ?
+* 2022-11-13 10:59:55 :Cletip:
+Comme tu me l'a dis précédemment, tu as "des types" de notes. Des notes projets, des notes personnes etc.
+As-tu déjà eu un problème comme "cette note pourrait aller là OU là", comme lorsque l'on a des dossiers ?

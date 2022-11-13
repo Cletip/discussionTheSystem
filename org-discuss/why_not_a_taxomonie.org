@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       20221113123230463943
+:END:
+#+title: why not a taxomonie ?
+* 2022-11-13 10:59:55 :Cletip:
+
+Petit rappel de la [[id:20221113123505721540][définition de taxonomie]]
+
+Je me demandais la chose suivante : pourquoi n'utilise tu pas une taximonie ?
+Je suis également contre, mais j'aimerai connaître les tiennes.
+Les miennes : 
+- elle doit être créer, ce qui peut-être très long
+- enferme l'utilisateur dans un vocabulaire
+- ne pourra jamais être complète par définition
